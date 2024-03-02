@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Pulse AI technology blog
+title: AI Marketing blog
 email: inedible_content@protonmail.com
 description: This site is a blog covering all things tech in 2024. Explore trending topics such as blockchain, machine learning, AI and programming. We utilize AI for content creation and marketing - learn how!
 baseurl: "/technology-blog/" # the subpath of your site, e.g. /blog
@@ -31,7 +31,7 @@ theme: minima
 # remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-feed
-#  - jekyll-remote-theme
+# - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
