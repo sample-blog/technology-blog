@@ -29,9 +29,10 @@ github_username:  jeremyd88
 # Build settings
 # theme: minima
 # remote_theme: pages-themes/hacker@v0.2.0
-remote_theme: pages-themes/slate@v0.2.0
+# remote_theme: pages-themes/slate@v0.2.0
+theme: jekyll-theme-dinky
 plugins:
-- jekyll-remote-theme
+#- jekyll-remote-theme
 - jekyll-feed
 # - jekyll-remote-theme
 
