@@ -27,7 +27,7 @@ for content creation and marketing - learn how!
 baseurl: "/technology-blog/" # the subpath of your site, e.g. /blog
 url: "https://sample-blog.github.io/technology-blog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NERDiT
-github_username:  sample-blog
+github_username:  jeremyd88
 
 # Build settings
 # theme: minima
