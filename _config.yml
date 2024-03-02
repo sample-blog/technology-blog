@@ -27,12 +27,11 @@ twitter_username: NERDiT
 github_username:  jeremyd88
 
 # Build settings
-theme: minima
-# remote_theme: pages-themes/hacker@v0.2.0
-# remote_theme: pages-themes/slate@v0.2.0
-# theme: jekyll-theme-dinky
+#theme: minima
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
-- jekyll-feed
+  - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
